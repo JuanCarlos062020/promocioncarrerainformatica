@@ -1,0 +1,2 @@
+# promocioncarrerainformatica
+Proyecto de clase 
